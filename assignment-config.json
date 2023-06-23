@@ -1,0 +1,19 @@
+{
+	"name": "js-live-code-game-leveling-up-calculator",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Live Coding - Game Leveling Up Calculator",
+	"order": 999,
+	"topics": [
+		"conditional",
+		"looping",
+		"function",
+		"string manipulation",
+		"number operation"
+	],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 9,
+	"metadata": {
+		"type": "live-coding"
+	}
+}
